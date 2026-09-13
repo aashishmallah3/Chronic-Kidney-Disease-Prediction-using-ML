@@ -136,4 +136,4 @@ Open the local URL shown in your terminal, then upload `test_ckd.csv` (or any si
 
 ## 📄 License
 
-This project is intended for educational purposes. Add a license of your choice (e.g., MIT) here.
+This project is intended for educational purposes.
